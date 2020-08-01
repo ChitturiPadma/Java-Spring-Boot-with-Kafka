@@ -15,3 +15,4 @@ Component Technology: A component is a unit of functionality that can be used wi
 the application development. When using a component framework, a container provides the components with certain standard services such as communication and 
 persistence. Desigining the functionality in terms of components serves better modularity and loosely coupled.
 
+https://user-images.githubusercontent.com/5779462/89096758-85e4c780-d3f6-11ea-872e-0170c0e68454.png
